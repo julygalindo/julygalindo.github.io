@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Intermediarios en Internet - Jurisprudencia, Colombia**
+title: Intermediarios en Internet - Jurisprudencia, Colombia
 ---
 
 En rueda de prensa del pasado 12 de septiembre de 2019, la [Corte Constitucional de Colombia](https://www.facebook.com/corteconstitucionaldecolombia/videos/500870387391448/UzpfSTY3MDA5NTcyMzoxMDE2MjY3MTkyODM5NTcyNA/?__xts__[0]=68.ARCHreSLi44A8lGUPwA06lNdZyyByQ8sg20xPZRRKnfb-6j_XMRqFHrHawYn0RAmyUXoMGNI9e8KZCts4Yit0oubcSHRs8zgBKsSu6SeJmSkkR57iMg0dzACG4Todnr7XQy5coZOSjX_xJIPGip4udstgt7FWQEuI2JeLV6MbdZAI7ly664ORU8LHZY0XP-xXRJCsaDKydkFXSUSArQDZyS5h9ncTDfIdf7kn4mgi-XU2QHRwRBwuAFsCyqoHgBFba45RGuOvyATDPUgNLyl-hSD4-GfCdo-ul1L2wHo77J8i6dqmnPpQHWrMaHh7Hfk_u5MG_Aoaa-6be5b9lq83W7KsV2CZg&__tn__=K-R) se pronunció sobre (i) la interacción entre ciudadanos en redes sociales y otras plataformas de contenidos, (ii) la responsabilidad de intermediarios prestadores del servicio (Google, Facebook etc.), así como sobre, (iii) las tensiones existentes con la libertad de expresión. La intención de este post es resumir la información compartida hasta el momento por la Corte Constitucional. Es importante aclarar que este contenido está sujeto a posterior revisión y actualización en vista a que la sentencia está a la fecha (14 de septiembre) pendiente de ser publicada:
@@ -24,5 +24,3 @@ Espero completar estas notas una vez se tenga acceso al texto completo de la sen
 --- JGQ
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
