@@ -23,4 +23,3 @@ Espero completar estas notas una vez se tenga acceso al texto completo de la sen
 
 --- JGQ
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
