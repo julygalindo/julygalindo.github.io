@@ -21,5 +21,5 @@ En rueda de prensa del pasado 12 de septiembre de 2019, la [Corte Constitucional
 
 Espero completar estas notas una vez se tenga acceso al texto completo de la sentencia de la Corte Constitucional. Por ahora, celebro la importancia que la Corte Constitucional está dando a 'online services' y las tensiones constitucionales allí presentes.
 
---- JGQ
+--- Escrito por: July Galindo Q.
 
