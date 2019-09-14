@@ -1,4 +1,5 @@
 ---
+layout: post
 title: **Intermediarios en Internet - Jurisprudencia, Colombia**
 ---
 
