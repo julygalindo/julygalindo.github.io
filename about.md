@@ -20,4 +20,4 @@ Gratitude always. If only we had more of it. Even during covid times.
 
 Feel free to reach out! 
 
-[jgalindo@think-in.tech](mailto:email@domain.com)
+[email](mailto:email@domain.com)
