@@ -1,5 +1,5 @@
-
-about: ### Hello! Thank you for stopping by! 
+About
+### Hello! Thank you for stopping by! 
 
 I am a Colombian lawyer and have dedicated my career to law and public policy in technology and privacy. I spent 10+ years practicing law in the law firm world. I've had the opportunity to participate in technology's complex legal matters, and in public policy sectorial conversations and actions related to digital technologies. 
 
